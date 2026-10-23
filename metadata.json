@@ -1,0 +1,8 @@
+{
+  "name": "Dar El Djazaïr - Restaurant Gastronomique Algérien",
+  "description": "Site web moderne et vitrine gastronomique pour le restaurant Dar El Djazaïr à Alger : menu en dinars algériens, réservations, galerie et contact WhatsApp direct.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
