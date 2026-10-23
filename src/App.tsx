@@ -237,8 +237,8 @@ export default function App() {
         cartCount={totalCartCount}
         onOpenCart={() => setIsCartOpen(true)}
         onOpenReservation={() => setIsReservationOpen(true)}
-        onOpenWhatsAppConfig={() => setIsWhatsAppConfigOpen(true)}
-        onOpenExport={() => setIsExportModalOpen(true)}
+        onOpenWhatsAppConfig={() => {}}
+        onOpenExport={() => {}}
         availableRestaurants={AVAILABLE_RESTAURANTS}
         currentRestaurantId={activeRestaurantId}
         onSelectRestaurant={handleSelectRestaurant}
